@@ -1,8 +1,6 @@
 # AWS_IoT_AnynetClick_RaspberyPi3_Python3_Pager
 Example For Raspbery PI3 written in Python3 to display published messages on an OLED Click using Anynet Cellular module to subscribe to messages on the AWS IoT Service
 
-Readme for the preparation of the Raspberry Pi Click Modules
-
 Required:
 
 Raspberry Pi 3 Model B with SD Card with fresh raspbian install
